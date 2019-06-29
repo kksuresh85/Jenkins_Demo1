@@ -1,0 +1,4 @@
+pageobjects\LoginPage.class
+setup\BasePage.class
+pageobjects\DashboardPage.class
+testcases\HomePageTest.class

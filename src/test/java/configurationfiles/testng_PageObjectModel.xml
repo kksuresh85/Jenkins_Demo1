@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite-Demo-PageObjectModel" parallel ="tests" thread-count ="3">
+<test name="FFTest">
+<parameter name = "browser" value = "FF"/>
+<parameter name = "url" value = "https://www.tnebnet.org/awp/login"/>
+<classes>
+<class name="testcases.HomePageTest"/>
+</classes>
+</test>
+<test name="ChromeTest">
+<parameter name = "browser" value = "Chrome"/>
+<parameter name = "url" value = "https://www.tnebnet.org/awp/login"/>
+<classes>
+<class name="testcases.HomePageTest"/>
+</classes>
+</test>
+<test name="IETest">
+<parameter name = "browser" value = "IE"/>
+<parameter name = "url" value = "https://www.tnebnet.org/awp/login"/>
+<classes>
+<class name="testcases.HomePageTest"/>
+</classes>
+</test>
+</suite> <!-- Suite-Demo-PageObjectModel -->

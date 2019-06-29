@@ -1,0 +1,9 @@
+2019-06-29 17:55:49,756  INFO BasePage.java [TestNG-tests-3] BasePage:39 - Opening application URL in IE
+2019-06-29 17:55:52,559  INFO BasePage.java [TestNG-tests-2] BasePage:46 - Opening application URL in Chrome
+2019-06-29 17:56:04,902  INFO BasePage.java [TestNG-tests-1] BasePage:32 - Opening application URL in FF
+2019-06-29 17:56:50,294  INFO BasePage.java [TestNG-tests-3] BasePage:39 - Opening application URL in IE
+2019-06-29 17:56:53,944  INFO BasePage.java [TestNG-tests-2] BasePage:46 - Opening application URL in Chrome
+2019-06-29 17:57:00,803  INFO BasePage.java [TestNG-tests-1] BasePage:32 - Opening application URL in FF
+2019-06-29 17:58:49,560  INFO BasePage.java [TestNG-tests-3] BasePage:39 - Opening application URL in IE
+2019-06-29 17:58:53,269  INFO BasePage.java [TestNG-tests-2] BasePage:46 - Opening application URL in Chrome
+2019-06-29 17:58:59,716  INFO BasePage.java [TestNG-tests-1] BasePage:32 - Opening application URL in FF
